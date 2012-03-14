@@ -1,0 +1,26 @@
+.view .date-nav-wrapper .date-prev {
+  right: 30px;
+}
+
+.heartbeat-activity {
+  margin-top: 7px;
+  margin-bottom: 7px;
+  overflow: hidden;
+}
+
+.heartbeat-activity .avatar {
+  float: left;
+  margin: 0 7px 7px 0;
+}
+
+.page-user .tabs {
+  display: none;
+}
+
+td.active {
+  background-color: transparent;
+}
+
+tr.odd{
+  background-color: #FFF;
+}
